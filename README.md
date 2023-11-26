@@ -39,6 +39,19 @@ The `Report_Writing` directory includes:
 ### For Data Engineering Team
 (Below will basically be a list of datasets mentioned by all of the papers in our Zotero directory at the moment - generated using docAnalyzer by just linking all downloaded files in Zotero to the app. I would appreciate it, however, if you guys could scrape things like RSS feeds for text information or find other ways of getting data - like Kaggle datasets, datasets from universities, articles, and more. Or to use the research papers and your own additional research to find out where betting sites get their data from - databrokers and more. As seen from preliminary research and notes linked to Zotero, live information about matches, whether on social media or video, have a negligible effect on end predictions. Prior probabilities seem to have bigger effects.)
 - [CHECK PAPERS IN ZOTERO GROUP](https://www.zotero.org/groups/5294455/comp0036_research)
+- [KaggleData](https://www.kaggle.com/datasets?sortBy=votes&group=public&search=fifa&page=1&pageSize=20&size=all&filetype=all&license=all)
+- [FootballData](https://github.com/jokecamp/FootballData)
+- [StatsBomb](https://github.com/statsbomb/open-data)
+- [Football Anlytics 101](https://football-analytics-101.readthedocs.io/en/latest/data.html)
+- [Awesome Footbal Analytics](https://github.com/diegopastor/awesome-football-analytics)
+- [Datahub](https://datahub.io/collections/football)
+- [More Stats Bomb Data](https://statsbomb.com/what-we-do/hub/free-data/)
+- [Football Data from Transfermarkt](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
+- [Sports Statistics](https://sports-statistics.com/sports-data/)
+- [Google Datasets Research Tool](https://datasetsearch.research.google.com/search?query=football&docid=L2cvMTFzMXdyN2RyYw%3D%3D)
+- [Free Sports Data Sources](https://www.brendankent.com/blog/free-sports-data-sources)
+- [Football Analytics Repo](https://github.com/eddwebster/football_analytics#data-sources)
+- [Open International Soccer Database](https://osf.io/kqcye/)
 ### For Model Development Team
 - [Made With ML](https://madewithml.com/): (This is a course for both machine learing and MLOPs. It gives comprehensive code snippets which we can easily integrate - deviously lick - into our project)
 - [Machine Learning Bookcamp](https://mlbookcamp.com/): (This is a machine learning engineering course with less production-ready snippets but more explanations)
@@ -57,7 +70,6 @@ The `Report_Writing` directory includes:
 - [Very Useful Channel](https://www.youtube.com/@DrAndyStapleton): (Very useful chanel of a post-Doc explaining study techniques and going into more detail about the tools I linked above)
 - [Latex Tutorial Playlist 1](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73): (Latex playlist - At 1.50x : 2 hours, 46 minutes, 37 seconds)
 - [Latex Tutorial Playlist 2](https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449): (Latex playlist - At 1.50x : 4 hours, 12 minutes, 54 seconds)
-
 
 ## Team Members
 - Priestly Adejo
