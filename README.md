@@ -38,9 +38,7 @@ The `Report_Writing` directory includes:
 ## Useful Resources for This Project
 ### For Data Engineering Team
 (Below will basically be a list of datasets mentioned by all of the papers in our Zotero directory at the moment - generated using docAnalyzer by just linking all downloaded files in Zotero to the app. I would appreciate it, however, if you guys could scrape things like RSS feeds for text information or find other ways of getting data - like Kaggle datasets, datasets from universities, articles, and more. Or to use the research papers and your own additional research to find out where betting sites get their data from - databrokers and more. As seen from preliminary research and notes linked to Zotero, live information about matches, whether on social media or video, have a negligible effect on end predictions. Prior probabilities seem to have bigger effects.)
-- [GitHub Guides](https://guides.github.com/)
-- [LaTeX Project](https://www.latex-project.org/)
-- [Python Documentation](https://www.python.org/doc/)
+- [CHECK PAPERS IN ZOTERO GROUP](https://www.zotero.org/groups/5294455/comp0036_research)
 ### For Model Development Team
 - [Made With ML](https://madewithml.com/): (This is a course for both machine learing and MLOPs. It gives comprehensive code snippets which we can easily integrate - deviously lick - into our project)
 - [Machine Learning Bookcamp](https://mlbookcamp.com/): (This is a machine learning engineering course with less production-ready snippets but more explanations)
