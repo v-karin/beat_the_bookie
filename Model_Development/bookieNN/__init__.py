@@ -1,2 +1,1 @@
-import model
-import loader
+from . import model, loader

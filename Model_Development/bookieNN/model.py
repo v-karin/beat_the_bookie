@@ -3,7 +3,7 @@ from torch.utils.data import DataLoader
 
 
 
-class BookieModel(nn):
+class BookieModel(nn.Module):
     def __init__(self, input_len: int, output_len: int):
         super().__init__()
 
