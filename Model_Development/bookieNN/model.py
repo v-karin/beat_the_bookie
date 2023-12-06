@@ -9,13 +9,15 @@ class BookieModel(nn.Module):
 
         self.layers = nn.Sequential(
             nn.Linear(input_len, 40),
+            nn.ReLU(),
             nn.Linear(40, output_len),
+            nn.Tanh()
         )
 
     def forward(self, input: int):
         return self.layers(input)
     
-def trainModel(model: BookieModel, loader: DataLoader, train_data: Tensor, epochs: int, learning_rate: int) -> Tensor:
+def train_model(model: BookieModel, loader: DataLoader, epochs: int, learning_rate: float) -> Tensor:
     """
     train_data.shape: [length, width]
     Recommended:
@@ -31,7 +33,7 @@ def trainModel(model: BookieModel, loader: DataLoader, train_data: Tensor, epoch
 
     loss = Tensor([-1])
 
-    for epoch in epochs:
+    for epoch in range(epochs):
         print("\nEpoch:", epoch)
         for x_batch, y_batch in loader:
             y_pred = model(x_batch)
